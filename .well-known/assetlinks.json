@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jeevansathi.android",
+    "sha256_cert_fingerprints":
+    ["40:F6:3F:AF:0D:DD:F2:47:7C:23:4D:49:2D:6A:8B:28:1C:76:44:87:70:97:FB:B6:DF:1B:83:CE:E9:5E:A5:24"]
+  }
+}]
