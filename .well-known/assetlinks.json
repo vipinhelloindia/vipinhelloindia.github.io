@@ -22,5 +22,14 @@
         "D5:6F:49:2A:E3:04:72:27:02:04:E4:DA:70:11:41:19:36:34:78:1C:44:D6:95:3E:1A:A7:CD:8E:01:76:56:F7"
       ]
     }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jeevansathi.android",
+    "sha256_cert_fingerprints":
+    ["25:B4:B5:A4:A3:F7:BA:6E:3C:BB:19:07:46:C3:08:CE:CC:5E:75:B2:7E:B5:B8:61:5E:D0:1C:FB:B4:FF:64:22"]
   }
+}
 ]
