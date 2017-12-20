@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.android.applink",
+    "package_name": "com.jeevansathi.android",
     "sha256_cert_fingerprints":
     ["D5:6F:49:2A:E3:04:72:27:02:04:E4:DA:70:11:41:19:36:34:78:1C:44:D6:95:3E:1A:A7:CD:8E:01:76:56:F7"]
   }
