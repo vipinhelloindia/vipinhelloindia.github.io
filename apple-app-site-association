@@ -9,7 +9,7 @@
        "details": [
        	{
          "appID": "Z3QQ492P6Z.com.infoedge.jeevansathi",
-         "paths": ["profile"]
+         "paths": ["/profile/*"]
        	}
        ]
     }
