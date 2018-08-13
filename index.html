@@ -1,5 +1,28 @@
-<form action="welcome.html" >
-<input name="username" /><br/>
-<input type="password" name="password"/><br/>
-<input type="submit" ?>
-</form>
+<!DOCTYPE html>
+<html>
+<body>
+<script type="text/javascript">
+
+    function showAndroidToast(toast) {
+
+        if(typeof Android !== "undefined" && Android !== null) {
+            Android.showToast(toast);
+            alert('Hi Android')
+        } else {
+            alert("Not viewing in webview");
+        }
+    }
+    showAndroidToast('Hello Android!');
+</script>
+
+
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+
+
+</body>
+</html>
+
